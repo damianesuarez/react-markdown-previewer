@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react-markdown-previewer/static/css/main.073c9b0a.css",
-    "main.js": "/react-markdown-previewer/static/js/main.d7918624.js",
+    "main.css": "/react-markdown-previewer/static/css/main.be4d79f1.css",
+    "main.js": "/react-markdown-previewer/static/js/main.e2b46fb6.js",
     "static/js/787.e9480b1f.chunk.js": "/react-markdown-previewer/static/js/787.e9480b1f.chunk.js",
-    "static/media/logo.svg": "/react-markdown-previewer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-markdown-previewer/index.html",
-    "main.073c9b0a.css.map": "/react-markdown-previewer/static/css/main.073c9b0a.css.map",
-    "main.d7918624.js.map": "/react-markdown-previewer/static/js/main.d7918624.js.map",
+    "main.be4d79f1.css.map": "/react-markdown-previewer/static/css/main.be4d79f1.css.map",
+    "main.e2b46fb6.js.map": "/react-markdown-previewer/static/js/main.e2b46fb6.js.map",
     "787.e9480b1f.chunk.js.map": "/react-markdown-previewer/static/js/787.e9480b1f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d7918624.js"
+    "static/css/main.be4d79f1.css",
+    "static/js/main.e2b46fb6.js"
   ]
 }
